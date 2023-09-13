@@ -1,0 +1,19 @@
+{
+  "training_set_info":[
+    {"name": "2HopA", "len": 400000},
+    {"name": "0HopA", "len": 400000},
+    {"name": "1HopFull", "len": 400000}
+  ],
+  "training_sets":[
+    {"name": "01", "fractions": [0.333,0.167,0.5]} 
+    {"name": "02", "fractions": [0.167,0.333,0.5]},
+    {"name": "03", "fractions": [0.3333,0.3333,0.3334]},
+    {"name": "04", "fractions": [0.5,0.167,0.333]},
+    {"name": "05", "fractions": [0.167,0.167,0.666]},
+    {"name": "06", "fractions": [0.666,0.0,0.334]},
+    {"name": "07", "fractions": [0.334,0.0,0.666]},
+    {"name": "08", "fractions": [0.0,0.334,0.666]},
+    {"name": "09", "fractions": [0.0,0.666,0.334]},
+    {"name": "10", "fractions": [0.167,0.666,0.167]}
+  ]
+}
