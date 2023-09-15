@@ -35,3 +35,16 @@ python gen_dataset_dists.py --wide_json_file data/two_hop_datasets/questions/LAR
 ```
 
 Note that the questions can then be fed to the CLOSURE for running train and tests.
+
+## Cite
+
+If you make use of this code in your own work, please cite our paper:
+
+```
+@inproceedings{rahimi2023D3,
+  title={D3: Data Diversity Design for Systematic Generalization in Visual Question Answering},
+  author={Rahimi, Amir and D'Amario, Vanessa and Yamada, Moyuru and Takemoto, Kentaro and Sasaki, Tomotake and Boix, Xavier},
+  booktitle={Arxiv},
+  year={2023}
+}
+```
